@@ -2,7 +2,7 @@
 
 This project implements an efficient solution to the classic problem: **find the length of the longest increasing path in a matrix**, where movement is allowed **up, down, left, and right**, and each next value must be **strictly greater** than the previous one.
 
-The algorithm uses **Depth-First Search (DFS)** with **memoization** (`@lru_cache`) to achieve optimal performance.
+The algorithm uses **Depth-First Search (DFS)** with **memoization** to achieve optimal performance.
 
 ---
 
